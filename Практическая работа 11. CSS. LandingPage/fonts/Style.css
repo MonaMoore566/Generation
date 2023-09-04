@@ -1,0 +1,152 @@
+@font-face {
+  font-family: "RR";
+  src: url(../style/Roboto-Thin.ttf);
+}
+@font-face {
+  font-family: "RM";
+  src: url(../style/Roboto-Medium.ttf);
+}
+header {
+  background-image: url(../img/anirudh-Xu4Pz7GI9JY-unsplash.jpg);
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position: 66%;
+  background-color: black;
+}
+body {
+  background-color: black;
+  background-image: url(../img/daniel-olah-HNkgPFBShSw-unsplash\ 1.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: bottom;
+  margin: 0px;
+}
+.spok {
+  list-style-type: none;
+  position: fixed;
+  right: 3%;
+  top: 1%;
+  font-size: 17px;
+  font-family: "RR";
+}
+a {
+  text-decoration: none;
+  color: aliceblue;
+}
+.com {
+  display: inline-block;
+  margin-right: -1px;
+  text-align: center;
+  padding: 10px;
+}
+.com button {
+  color: aliceblue;
+  border-radius: 150px;
+  border: 1px solid aliceblue;
+  background-color: transparent;
+  padding: 5px 20px;
+  box-shadow: 0 6px 6px rgba(0, 0, 0, 0.267);
+}
+.imgi1 {
+  width: 10%;
+  position: absolute;
+  left: 30%;
+  top: 350px;
+}
+.zagal1 {
+  color: aliceblue;
+  position: absolute;
+  top: 20%;
+  left: 30%;
+  font-family: "RR";
+}
+header,
+main,
+footer {
+  height: 100vh;
+}
+.imgi2 {
+  width: 3%;
+  position: absolute;
+  top: 3%;
+  left: 3%;
+}
+.imgi3 {
+  width: 40%;
+  position: relative;
+  top: 30%;
+  left: 10%;
+  border: 5px solid rgb(49, 143, 231);
+}
+main {
+  position: relative;
+}
+.zagal2 {
+  font-size: 25px;
+  color: aliceblue;
+  position: absolute;
+  left: 53%;
+  top: 30%;
+  font-family: "RR";
+}
+.text1 {
+  color: rgb(143, 148, 152);
+  position: absolute;
+  left: 53%;
+  top: 40%;
+  font-size: 17px;
+  font-family: "RM";
+}
+.knopak{
+  font-family: "RR";
+}
+.knopka2{
+  display: inline-block;
+  margin-right: -1px;
+  text-align: center;
+  margin-right: 160px;
+  margin-left: -40px;
+}
+.knopka2 button {
+  color: aliceblue;
+  border-radius: 150px;
+  border: 1px solid rgb(143, 148, 152);
+  background-color: transparent;
+  padding: 12px 35px;
+  font-size: 18px;
+}
+.knopka2 button:hover {
+  background-color: rgb(0, 174, 227);
+  border: 1px solid rgb(0, 187, 255);
+}
+.knopka3 button:hover {
+  background-color: rgb(0, 174, 255);
+  border: 1px solid rgb(0, 187, 255);
+}
+.imgi4 {
+  width: 5%;
+}
+.zagal3 {
+  color: aliceblue;
+  font-family: "RR";
+}
+.text2 {
+  color: rgb(143, 148, 152);
+  font-family: "RM";
+}
+.taxt {
+  position: relative;
+  top: 600px;
+}
+.cot {
+  text-align: center;
+  position: relative;
+  top: 800px;
+}
+.cot img {
+  width: 5%;
+  margin: 10px 20%;
+}
+footer {
+  text-align: center;
+}
