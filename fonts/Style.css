@@ -1,11 +1,4 @@
-@font-face {
-  font-family: "RR";
-  src: url(../style/Roboto-Thin.ttf);
-}
-@font-face {
-  font-family: "RM";
-  src: url(../style/Roboto-Medium.ttf);
-}
+
 header {
   background-image: url(../img/anirudh-Xu4Pz7GI9JY-unsplash.jpg);
   background-size: 60%;
